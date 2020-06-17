@@ -4,8 +4,6 @@ rvm:
   - 2.3.3
 services:
   - redis-server
-before_install:
-  - gem update --system
 install:
   - bundle install
 script: 
