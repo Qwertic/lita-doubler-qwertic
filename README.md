@@ -2,8 +2,9 @@
 
 [![Build Status](https://travis-ci.org/Qwertic/lita-doubler-qwertic.png?branch=master)](https://travis-ci.org/Qwertic/lita-doubler-qwertic)
 [![Coverage Status](https://coveralls.io/repos/Qwertic/lita-doubler-qwertic/badge.png)](https://coveralls.io/r/Qwertic/lita-doubler-qwertic)
+[![Gem Version](https://badge.fury.io/rb/lita-doubler-qwertic.svg)](https://badge.fury.io/rb/lita-doubler-qwertic)
 
-TODO: Add a description of the plugin.
+Doubles numbers - simple demo skill.
 
 ## Installation
 
